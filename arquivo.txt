@@ -4,3 +4,5 @@ alunos:
     Guilherme Herrique Corrêa Borges
 
 Esse é o inicio da v2
+
+info: "Hoje está chovendo"
