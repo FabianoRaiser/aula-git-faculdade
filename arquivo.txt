@@ -8,5 +8,3 @@ Esse é o inicio da v2
 info: "Hoje está chovendo"
 
     Atualizando MAIN
-
-    vamos errae
