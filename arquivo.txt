@@ -2,3 +2,5 @@ alunos:
     Fabiano Raiser Dias Bexiga
     Isabela Corrêa
     Guilherme Herrique Corrêa Borges
+
+    Atualizando MAIN
